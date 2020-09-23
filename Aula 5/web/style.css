@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.forms{ 
+    text-align: center; 
+    font-family: arial; 
+}
+button{
+    margin-top: 20px;
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+    
+}
+input{
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+}
+
+.tabela{
+    margin-top: 20px;
+    align-items: center;
+    display: flex
+    
+}
+.remover{
+    margin-bottom: 10px;
+}
+table{
+    text-align: center;
+    margin-left: 130px;
+}
+
+.aviso{
+    text-align: center;
+}
